@@ -18,6 +18,6 @@ Vuex初步了解..
 
 > A Vuex and Router Demo
 
-##explain
+## explain
 
 Vuex和Router简单运用(╬▔▽▔)凸
