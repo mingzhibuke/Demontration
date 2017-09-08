@@ -14,10 +14,10 @@
 
 Vuex初步了解..
 
-#Vuex+router
+# Vuex+router
 
 > A Vuex and Router Demo
 
 ##explain
 
-Vuex和Router简单运用(╬▔▽▔)凸 
+Vuex和Router简单运用(╬▔▽▔)凸
