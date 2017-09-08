@@ -8,8 +8,16 @@
 
 # VuexExercise
 
-> A Vuex.js Demo
+> A Vuex Demo
 
 ## explain
 
 Vuex初步了解..
+
+#Vuex+router
+
+> A Vuex and Router Demo
+
+##explain
+
+Vuex和Router简单运用(╬▔▽▔)凸 
